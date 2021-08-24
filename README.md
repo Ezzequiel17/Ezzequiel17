@@ -1,0 +1,2 @@
+- 👋 Hi, llamo Ezequiel
+- 👀 I’m gustaria aprender a programar, por el momento estoy estudiando la carrera de full stack, aprendi html,css y aprendiendo javascrip, entiendo como crear una pagina desde 0
