@@ -1,2 +1,2 @@
-- 👋 Hi, Me llamo Ezequiel
-- 👀 I’m gustaria aprender a programar, por el momento estoy estudiando la carrera de full stack, aprendi html,css y aprendiendo javascrip, entiendo como crear una pagina web desde 0
+- 👋 Hola, Me llamo Ezequiel Montenegro
+- 👀 se programar paginas web, me gusta darle dinamismo, se html y js
